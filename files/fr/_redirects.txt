@@ -3580,7 +3580,7 @@
 /fr/docs/Tutoriel_canvas/Ajout_de_styles_et_de_couleurs	/fr/docs/Web/API/Canvas_API/Tutorial/Applying_styles_and_colors
 /fr/docs/Tutoriel_canvas/Animations_basiques	/fr/docs/Web/API/Canvas_API/Tutorial/Basic_animations
 /fr/docs/Tutoriel_canvas/Composition	/fr/docs/Web/API/Canvas_API/Tutorial/Compositing
-/fr/docs/Tutoriel_canvas/Composition/Example	/fr/docs/Web/API/Canvas_API/Tutorial/Compositing/Example
+/fr/docs/Tutoriel_canvas/Composition/Example	/fr/docs/conflicting/Web/API/CanvasRenderingContext2D/globalCompositeOperation
 /fr/docs/Tutoriel_canvas/Formes_géométriques	/fr/docs/Web/API/Canvas_API/Tutorial/Drawing_shapes
 /fr/docs/Tutoriel_canvas/Optimizing_canvas	/fr/docs/Web/API/Canvas_API/Tutorial/Optimizing_canvas
 /fr/docs/Tutoriel_canvas/Pixel_manipulation_with_canvas	/fr/docs/Web/API/Canvas_API/Tutorial/Pixel_manipulation_with_canvas
@@ -3631,12 +3631,13 @@
 /fr/docs/Web/API/ByteString	/fr/docs/Web/JavaScript/Reference/Global_Objects/String
 /fr/docs/Web/API/CSSMatrix	/fr/docs/Web/API/DOMMatrix
 /fr/docs/Web/API/Canvas_API/Drawing_graphics_with_canvas	/fr/docs/Web/API/Canvas_API/Tutorial
+/fr/docs/Web/API/Canvas_API/Tutorial/Compositing/Example	/fr/docs/conflicting/Web/API/CanvasRenderingContext2D/globalCompositeOperation
 /fr/docs/Web/API/Canvas_API/Tutoriel_canvas	/fr/docs/Web/API/Canvas_API/Tutorial
 /fr/docs/Web/API/Canvas_API/Tutoriel_canvas/Advanced_animations	/fr/docs/Web/API/Canvas_API/Tutorial/Advanced_animations
 /fr/docs/Web/API/Canvas_API/Tutoriel_canvas/Ajout_de_styles_et_de_couleurs	/fr/docs/Web/API/Canvas_API/Tutorial/Applying_styles_and_colors
 /fr/docs/Web/API/Canvas_API/Tutoriel_canvas/Animations_basiques	/fr/docs/Web/API/Canvas_API/Tutorial/Basic_animations
 /fr/docs/Web/API/Canvas_API/Tutoriel_canvas/Composition	/fr/docs/Web/API/Canvas_API/Tutorial/Compositing
-/fr/docs/Web/API/Canvas_API/Tutoriel_canvas/Composition/Example	/fr/docs/Web/API/Canvas_API/Tutorial/Compositing/Example
+/fr/docs/Web/API/Canvas_API/Tutoriel_canvas/Composition/Example	/fr/docs/conflicting/Web/API/CanvasRenderingContext2D/globalCompositeOperation
 /fr/docs/Web/API/Canvas_API/Tutoriel_canvas/Dessin_de_texte_avec_canvas	/fr/docs/Web/API/Canvas_API/Tutorial/Drawing_text
 /fr/docs/Web/API/Canvas_API/Tutoriel_canvas/Formes_géométriques	/fr/docs/Web/API/Canvas_API/Tutorial/Drawing_shapes
 /fr/docs/Web/API/Canvas_API/Tutoriel_canvas/Optimizing_canvas	/fr/docs/Web/API/Canvas_API/Tutorial/Optimizing_canvas

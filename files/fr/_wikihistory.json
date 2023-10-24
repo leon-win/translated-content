@@ -7359,10 +7359,6 @@
     "modified": "2020-11-13T03:38:19.786Z",
     "contributors": ["SphinxKnight", "a-mt", "Syberam"]
   },
-  "Web/API/Canvas_API/Tutorial/Compositing/Example": {
-    "modified": "2020-11-13T03:38:18.691Z",
-    "contributors": ["SphinxKnight", "a-mt"]
-  },
   "Web/API/Canvas_API/Tutorial/Drawing_shapes": {
     "modified": "2020-11-13T03:38:18.692Z",
     "contributors": [
@@ -27465,5 +27461,9 @@
       "si0ls",
       "dattaz"
     ]
+  },
+  "conflicting/Web/API/CanvasRenderingContext2D/globalCompositeOperation": {
+    "modified": "2020-11-13T03:38:18.691Z",
+    "contributors": ["SphinxKnight", "a-mt"]
   }
 }
